@@ -2,7 +2,7 @@
 
 # Input
 
-The Resume component requires no external props or user input at runtime. All data is statically defined within the component itself including personal details, professional experience, projects, technical skills, and educational background. The Resume.css file provides all visual styling through predefined class names.
+The Resume component has no external props or user input. All data is statically defined within the component itself including personal details, professional experience, projects, technical skills, and educational background. The Resume.css file provides all visual styling through predefined class names.
 
 # Process
 
