@@ -4,3 +4,4 @@
 - PE02 - Movie List
 - PE03 – ToDo List App
 - PE04 - Cities App
+- PE05 - Recipe Finder
